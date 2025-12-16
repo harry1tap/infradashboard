@@ -1,0 +1,5 @@
+{
+  "name": "CRM Lead Manager",
+  "description": "A React TypeScript application with Supabase backend and n8n integration for lead management.",
+  "requestFramePermissions": []
+}
